@@ -1,84 +1,91 @@
-# 👋 Hi, I’m Amoghavarsh P.
-**Cloud engineer • Developer • Creator of CloudSketcher**
-
-[![Website](https://img.shields.io/badge/website-cloudsketcher.com-1abc9c)](https://www.cloudsketcher.com/$web/index.html) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40amoghavarsh-blue)](https://www.linkedin.com/) [![YouTube](https://img.shields.io/badge/YouTube-%40Amoghavarsh-red)](https://www.youtube.com/)
-
----
-
-## 🚀 About Me
-I’m a cloud engineer and full-stack developer with ~6+ years of experience building scalable cloud-native systems, automation, and developer tools. I build solutions that help engineers visualize and manage cloud architectures — including **CloudSketcher**, a cross-cloud diagram tool for Azure, AWS, and GCP.
-
-- 🌐 Location: Bangalore, India  
-- 💼 Current: Building CloudSketcher (https://www.cloudsketcher.com)  
-- 🎓 Interests: Cloud architecture, IaC, Kubernetes, DevOps, developer tooling, teaching
-
----
-
-## 🧰 Tech & Tools
-**Cloud & Infra:** Azure | AWS | GCP | AKS | VMSS | Azure DevOps  
-**IaC & Automation:** Terraform | Bicep | ARM | GitHub Actions | CI/CD pipelines  
-**Containers & Orchestration:** Docker | Kubernetes (AKS) | Helm  
-**Languages:** Python | JavaScript (React) | TypeScript | Bash  
-**Other:** Prometheus | Grafana | Azure Monitor | Kubecost | Git
-
----
-
-## 🛠 Featured Project — CloudSketcher
-**CloudSketcher** — a web tool to quickly draw cloud architecture diagrams for Azure, AWS, and GCP, convert diagrams between clouds, and export diagrams for documentation.
-
-- Website: https://www.cloudsketcher.com/$web/index.html  
-- Key features:
-  - Drag & drop cloud icons and services
-  - Convert an architecture between Azure/AWS/GCP mappings
-  - Export SVG/PNG; shareable links
-  - Generates diagrams from simple textual descriptions (React + Flask backend)
-- Tech: React, React Flow, Flask, Node (optional), SVG assets for cloud icons
-
----
-
-## 📂 Other Notable Projects
-- **[Project Name]** — Short description (replace with real projects).  
-- **Open Source Contributions** — Terraform modules, sample IaC, and AKS patterns.
-
----
-
-## 📈 GitHub Stats & Activity
-<!-- GitHub readme-stats cards: customize with your username -->
+<!-- Animated header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Amoghavarsh+P.;☁️+Cloud+Engineer+%7C+Developer+%7C+Creator+of+CloudSketcher;🚀+Building+Cloud+Visualization+Tools+for+Azure%2C+AWS%2C+and+GCP" alt="Typing SVG" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username to show live stats.
+---
+
+### ☁️ About Me
+
+> Passionate Cloud Engineer & Full Stack Developer with 6+ years of experience building scalable cloud architectures, IaC automation, and developer tools.  
+> Creator of **[CloudSketcher](https://www.cloudsketcher.com/$web/index.html)** — a cross-cloud architecture diagramming tool for **Azure, AWS, and GCP**.  
+
+🛰️ Focused on:  
+- Cloud Automation, IaC (Terraform, Bicep)  
+- Kubernetes (AKS) & DevOps  
+- Building intuitive developer tools  
+
+📍 Based in **Bangalore, India**  
+📹 Sharing knowledge on **[YouTube – Cloud Kannada](https://www.youtube.com/)**  
 
 ---
 
-## 🎤 Talks & Content
-- YouTube: Azure tutorials, deployments, and short cloud tips.  
-- Blog/Website: posts about IaC, AKS upgrades, and cloud design patterns.
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,kubernetes,docker,react,python,flask,js,ts,git,github,linux" />
+</p>
 
 ---
 
-## 💡 Interview / Mentorship
-I help prepare engineers for cloud interviews (IaC, AKS, cloud design). If you want a one-page prep sheet or mock interview tips, ping me!
+### 🚀 Featured Project — CloudSketcher
+
+🌐 **[Visit CloudSketcher](https://www.cloudsketcher.com/$web/index.html)**  
+Your one-stop platform to visualize cloud architectures instantly.
+
+✨ **Highlights:**
+- 🧩 Drag & Drop Azure, AWS, GCP Icons  
+- 🔄 Convert Architectures Across Clouds  
+- 🧠 AI-Generated Diagrams from Text  
+- 💾 Export SVG/PNG Diagrams  
+
+🛠️ **Tech Used:** React, React Flow, Flask, SVG APIs
+
+<p align="center">
+  <img src="https://github.com/yourusername/cloudsketcher-demo/blob/main/demo.gif?raw=true" width="700" alt="CloudSketcher demo"/>
+</p>
 
 ---
 
-## 📫 Contact
-- Email: `your.email@example.com`  
-- LinkedIn: https://www.linkedin.com/in/amoghavarsh-p  
-- Website: https://www.cloudsketcher.com/$web/index.html
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🤝 Open to
-- Collaborations on cloud tools and architecture automation  
-- Mentoring early-career cloud engineers  
-- Speaking at community meetups & workshops
+### 🌎 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amoghavarsh-p/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.cloudsketcher.com/$web/index.html"><img src="https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 ---
 
-> ⭐ If you like CloudSketcher or any of my projects, feel free to follow and star the repos — it means a lot and helps the project grow!
+### 🧩 Fun Section
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
 
 ---
-*Made with ☁️ and a lot of coffee.*
+
+### ☕ Quote of the Day
+> “Build what helps others build faster.” — Inspired by CloudSketcher
+
+---
+
+⭐ **If you like my work, consider following me or starring my repos!**
+
+---
+<p align="center">Made with ❤️ + ☁️ + ☕</p>
