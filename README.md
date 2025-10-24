@@ -34,9 +34,9 @@ class CloudArchitect:
     def skills(self):
         return {
             "clouds": ["Azure", "AWS", "GCP"],
-            "orchestration": ["Kubernetes", "AKS", "Docker"],
-            "iac": ["Terraform", "Bicep", "ARM"],
-            "languages": ["Python", "TypeScript", "JavaScript"],
+            "orchestration": ["Kubernetes"],
+            "iac": ["Terraform"],
+            "languages": ["Python"],
             "expertise": ["Cloud Native", "DevOps", "Automation"]
         }
     
@@ -76,24 +76,6 @@ A revolutionary web tool that transforms how engineers visualize and design clou
 </td>
 <td width="40%">
 
-### 🛠️ Tech Stack
-
-```yaml
-Frontend:
-  - React & React Flow
-  - TypeScript
-  - Modern CSS3
-
-Backend:
-  - Flask (Python)
-  - Node.js
-  - REST APIs
-
-Features:
-  - Real-time collaboration
-  - Cloud service mapping
-  - Export capabilities
-```
 
 </td>
 </tr>
