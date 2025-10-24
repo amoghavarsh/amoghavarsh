@@ -21,23 +21,17 @@ I’m a cloud engineer and full-stack developer with ~6+ years of experience bui
 ---
 
 ## 🛠 Featured Project — CloudSketcher
-**CloudSketcher** — a web tool to quickly draw cloud architecture diagrams for Azure, AWS, and GCP, convert diagrams between clouds, and export diagrams for documentation.
+**CloudSketcher - AI for Azure AWS GCP** — a web tool to quickly draw cloud architecture diagrams for Azure, AWS, and GCP, convert diagrams between clouds, and export diagrams for documentation.
 
-- Website: https://www.cloudsketcher.com/$web/index.html  
+- Website: https://www.cloudsketcher.com/ 
 - Key features:
+  - AI based Architecturing tool 
   - Drag & drop cloud icons and services
   - Convert an architecture between Azure/AWS/GCP mappings
   - Export SVG/PNG; shareable links
-  - Generates diagrams from simple textual descriptions (React + Flask backend)
-- Tech: React, React Flow, Flask, Node (optional), SVG assets for cloud icons
-
+  - Generates diagrams,document,pricing data.
 ---
 
-## 📂 Other Notable Projects
-- **[Project Name]** — Short description (replace with real projects).  
-- **Open Source Contributions** — Terraform modules, sample IaC, and AKS patterns.
-
----
 
 ## 📈 GitHub Stats & Activity
 <!-- GitHub readme-stats cards: customize with your username -->
