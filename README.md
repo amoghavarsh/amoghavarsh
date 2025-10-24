@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Amoghavarsh P.
 **Cloud engineer • Developer • Creator of CloudSketcher**
 
-[![Website](https://img.shields.io/badge/website-cloudsketcher.com-1abc9c)](https://www.cloudsketcher.com/$web/index.html) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40amoghavarsh-blue)](https://www.linkedin.com/) [![YouTube](https://img.shields.io/badge/YouTube-%40Amoghavarsh-red)](https://www.youtube.com/)
-
 ---
 
 ## 🚀 About Me
@@ -15,11 +13,10 @@ I’m a cloud engineer and full-stack developer with ~6+ years of experience bui
 ---
 
 ## 🧰 Tech & Tools
-**Cloud & Infra:** Azure | AWS | GCP | AKS | VMSS | Azure DevOps  
-**IaC & Automation:** Terraform | Bicep | ARM | GitHub Actions | CI/CD pipelines  
-**Containers & Orchestration:** Docker | Kubernetes (AKS) | Helm  
-**Languages:** Python | JavaScript (React) | TypeScript | Bash  
-**Other:** Prometheus | Grafana | Azure Monitor | Kubecost | Git
+**Cloud & Infra:** Azure | GCP | AKS | VMSS | Azure DevOps  
+**IaC & Automation:** Terraform | GitHub Actions | CI/CD pipelines  
+**Languages:** Python | JavaScript (React) | TypeScript   
+**Other:** Datadog | Azure Monitor | Kubecost 
 
 ---
 
