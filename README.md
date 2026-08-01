@@ -1,155 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Amoghavarsh%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Founder%20of%20CloudSketcher&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E63946,60:F2A20C,100:E63946&height=210&section=header&text=AMOGHAVARSH&fontSize=60&fontColor=0B0A0F&fontAlignY=38&desc=cloud%20architect%20%C2%B7%20infrastructure%20as%20code%20%C2%B7%20builder%20of%20things&descAlignY=60&descSize=16" width="100%" />
 
-<p>
-  <a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/CloudSketcher-Founder-2C5364?style=for-the-badge&logoColor=white" alt="CloudSketcher" /></a>
-  <a href="https://www.linkedin.com/in/amoghavarshp017/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amoghavarsh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=amoghavarsh&style=for-the-badge&color=2C5364" alt="Profile views" />
-</p>
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Cloud-native+systems+that+scale.;Infrastructure+as+Code%2C+not+as+clicks.;AI+that+draws+your+architecture.;%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%87+%E0%B2%95%E0%B3%8B%E0%B2%A1%E0%B3%8D+%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B3%8B%E0%B2%A3" alt="Typing SVG" /></a>
+**ಕಲಿಯೋಕೆ ಕೋಟಿ ಭಾಷೆ, ಆಡೋಕೆ ಒಂದೇ ಭಾಷೆ**
+
+<sub><i>Learn a million languages — code in one: your mother tongue.</i></sub>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=900&color=F2A20C&center=true&vCenter=true&width=620&lines=I+draw+clouds+for+a+living.;Infrastructure+as+code%2C+not+as+clicks.;I+built+a+language+in+%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1." alt="" />
+
+<br><br>
+
+<a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/CLOUDSKETCHER-E63946?style=flat-square&labelColor=0B0A0F" alt="CloudSketcher" /></a>
+<a href="https://www.linkedin.com/in/amoghavarshp017/"><img src="https://img.shields.io/badge/LINKEDIN-F2A20C?style=flat-square&labelColor=0B0A0F" alt="LinkedIn" /></a>
+<a href="mailto:amoghavarsh10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5EFE0?style=flat-square&labelColor=0B0A0F" alt="Email" /></a>
 
 </div>
 
----
+<br>
 
-## 🧭 whoami
+```console
+$ whoami --verbose
 
-```yaml
-name:      Amoghavarsh Patil
-role:      Cloud Engineer · DevOps · Full-Stack
-location:  Bangalore, India 🇮🇳
-building:  CloudSketcher — AI for Azure · AWS · GCP
-focus:     [ cloud architecture, IaC, kubernetes, developer tooling ]
-open_to:   [ collaborations, mentoring, speaking ]
-motto:     "Turn complex infrastructure into clean, visual, automated experiences."
+  Amoghavarsh Patil · Bangalore, India
+  Cloud engineer, 6+ yrs. Azure / AWS / GCP.
+  Founder — CloudSketcher.
+
+  I spend my days making infrastructure legible: diagrams that
+  become Terraform, clusters that explain their own cost, pipelines
+  that don't need a tribal elder to debug.
+
+  Nights, I write software in Kannada.
 ```
 
-I'm a cloud engineer and full-stack developer with **6+ years** building scalable cloud-native systems, automation, and developer tools. I ship products that help engineers *see* their infrastructure — and I care a lot about the last mile between a diagram and a running system.
+<br>
 
----
+## ⏣ &nbsp;Work
 
-## 🚀 Featured Work
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [CloudSketcher](https://www.cloudsketcher.com/)
-**AI for Azure · AWS · GCP**
+#### ಕ &nbsp;[KannadaLipi](https://k-lipi.in/)
+> Karnataka's first programming language
 
-Design cloud infrastructure with AI. Generate architecture from plain text, turn uploaded images into diagrams, and produce docs, pricing estimates, and Terraform.
+An interpreter and live editor that runs entirely in the browser — variables, conditionals, and numerals in Kannada script. Built so a kid in a Kannada-medium school meets `ಮುದ್ರಿಸು` before they ever meet `print`.
 
-`React` `AI/LLM` `Terraform` `AWS` `SaaS`
+<sub>`Interpreter` · `React` · `Vite` · `EdTech`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [PromptExo](https://studio.promptexo.com)
-**Prompt → Production-Ready Website**
+#### ⛭ &nbsp;[CloudSketcher](https://www.cloudsketcher.com/)
+> AI for Azure · AWS · GCP
 
-An AI website builder that turns plain English into clean HTML, CSS and JS. VibeCode, NoCode and ProCode modes, live multi-device preview, one-click deploy.
+Describe your architecture in plain English and get a diagram back — or upload a whiteboard photo and get Terraform, docs, and a pricing estimate. Converts an architecture across all three clouds.
 
-`AI` `LLM` `React` `Web App`
+<sub>`AI/LLM` · `Terraform` · `React` · `SaaS`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ಕ [KannadaLipi](https://k-lipi.in/)
-**Karnataka's first Kannada programming language**
+#### ⌁ &nbsp;[PromptExo](https://studio.promptexo.com)
+> Prompt → production website
 
-A browser-based interpreter and real-time editor to write code entirely in the Kannada script, with interactive lessons for native-language learners.
+Plain English in, clean HTML/CSS/JS out. VibeCode, NoCode and ProCode modes, multi-device preview, one-click deploy to a live URL.
 
-`React` `Vite` `Interpreter` `EdTech`
+<sub>`LLM` · `React` · `Web`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 [CashCal](https://play.google.com/store/apps/details?id=com.appgyver.MyFriend)
-**8-in-1 Finance Calculator · 1K+ downloads**
+#### ▤ &nbsp;[CashCal](https://play.google.com/store/apps/details?id=com.appgyver.MyFriend)
+> 8 finance calculators, 8.5 MB
 
-EMI calculator, interest calculator, currency converter and more — all in a single 8.5 MB Android app on Google Play.
+EMI, compound interest, currency conversion and five more, in one small Android app. 1K+ downloads on Google Play.
 
-`Android` `Finance` `Mobile`
+<sub>`Android` · `Finance`</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🧰 Tech Arsenal
+## ⏣ &nbsp;Stack
 
 <div align="center">
 
-**Cloud & Infra**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**IaC & Automation**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Observability**
-
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubecost](https://img.shields.io/badge/Kubecost-1F4B99?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux&theme=dark" alt="Cloud and infrastructure" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,github&theme=dark" alt="Languages and frameworks" />
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Cloud & Infra**<br>
+<sub>Azure · AWS · GCP · AKS · VMSS<br>Kubernetes · Docker · Linux</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**IaC & Delivery**<br>
+<sub>Terraform · GitHub Actions<br>Azure DevOps · CI/CD</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Observability**<br>
+<sub>Datadog · Azure Monitor<br>Kubecost · FinOps</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⏣ &nbsp;Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&title_color=38BDF8&text_color=9CA3AF&bg_color=0D1117" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghavarsh&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0B0A0F&icon_color=E63946&text_color=8A8578&ring_color=F2A20C" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0B0A0F&text_color=8A8578" alt="Most-used languages" />
 
 </div>
 
----
+<br>
 
-## 🤝 Open To
+## ⏣ &nbsp;Elsewhere
 
-| | |
-|---|---|
-| 🛠️ **Collaborations** | Cloud tooling and architecture automation |
-| 🎓 **Mentoring** | Early-career cloud engineers |
-| 🎤 **Speaking** | Community meetups & workshops |
+I'm around for **collaborations** on cloud tooling and architecture automation, **mentoring** early-career cloud engineers, and **speaking** at meetups and workshops. Fastest way to reach me is email.
+
+<br>
 
 <div align="center">
 
-### Let's build something.
+<a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/cloudsketcher.com-E63946?style=for-the-badge&labelColor=0B0A0F" alt="Website" /></a>
+<a href="mailto:amoghavarsh10@gmail.com"><img src="https://img.shields.io/badge/amoghavarsh10@gmail.com-F2A20C?style=for-the-badge&labelColor=0B0A0F" alt="Email" /></a>
 
-<a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/🌐_cloudsketcher.com-2C5364?style=for-the-badge" alt="Website" /></a>
-<a href="mailto:amoghavarsh10@gmail.com"><img src="https://img.shields.io/badge/📬_Say_hello-EA4335?style=for-the-badge" alt="Email" /></a>
+<br><br>
 
-<sub>Made with ☁️ and a lot of coffee. · **ಜೈ ಕರ್ನಾಟಕ** 🇮🇳</sub>
+<sub>ಜೈ ಕರ್ನಾಟಕ &nbsp;·&nbsp; built from Bangalore</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F2A20C,60:E63946,100:F2A20C&height=140&section=footer" width="100%" />
 
 </div>
