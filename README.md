@@ -142,12 +142,17 @@ Online turf booking for players and ground owners — live slot availability, in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=E63946&title_color=E63946&text_color=8A8578&ring_color=F2A20C" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=E63946&title_color=E63946&text_color=57534E&ring_color=E63946" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghavarsh&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghavarsh&theme=github" alt="Profile summary" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoghavarsh&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoghavarsh&theme=github" alt="Repositories per language" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=8A8578" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=57534E" alt="Most-used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoghavarsh&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoghavarsh&theme=github" alt="Most-committed languages" />
 </picture>
 
 <br>
@@ -155,13 +160,6 @@ Online turf booking for players and ground owners — live slot availability, in
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=8A8578&ring=E63946&fire=E63946&currStreakLabel=F2A20C&sideLabels=8A8578&sideNums=F5EFE0&currStreakNum=F5EFE0&dates=8A8578" />
   <img height="150" src="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=D6D3D1&ring=E63946&fire=E63946&currStreakLabel=B45309&sideLabels=57534E&sideNums=1C1917&currStreakNum=1C1917&dates=78716C" alt="Contribution streak" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=amoghavarsh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=amoghavarsh&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 </picture>
 
 <br><br>
@@ -188,7 +186,7 @@ I'm around for **collaborations** on cloud tooling and architecture automation, 
 
 <br><br>
 
-<sub>ಜೈ ಕರ್ನಾಟಕ &nbsp;·&nbsp; built from Bangalore</sub>
+<sub>ಜೈ ಕರ್ನಾಟಕ &nbsp;·&nbsp; built from Bagalkot</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F2A20C,60:E63946,100:F2A20C&height=140&section=footer" width="100%" />
 
