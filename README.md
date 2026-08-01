@@ -99,38 +99,41 @@ Online turf booking for players and ground owners — live slot availability, in
 
 ## ⏣ &nbsp;Stack
 
-<div align="center">
+**Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux&theme=dark" alt="Cloud and infrastructure" />
-<br>
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,github&theme=dark" alt="Languages and frameworks" />
+![Azure](https://img.shields.io/badge/Azure-0B0A0F?style=flat-square&logo=microsoftazure&logoColor=E63946)
+![AWS](https://img.shields.io/badge/AWS-0B0A0F?style=flat-square&logo=amazonwebservices&logoColor=E63946)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0B0A0F?style=flat-square&logo=googlecloud&logoColor=E63946)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B0A0F?style=flat-square&logo=kubernetes&logoColor=E63946)
+![Docker](https://img.shields.io/badge/Docker-0B0A0F?style=flat-square&logo=docker&logoColor=E63946)
+![Linux](https://img.shields.io/badge/Linux-0B0A0F?style=flat-square&logo=linux&logoColor=E63946)
+![AKS · VMSS](https://img.shields.io/badge/AKS%20%C2%B7%20VMSS-0B0A0F?style=flat-square)
 
-</div>
+**IaC & Delivery**
 
-<br>
+![Terraform](https://img.shields.io/badge/Terraform-0B0A0F?style=flat-square&logo=terraform&logoColor=F2A20C)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B0A0F?style=flat-square&logo=githubactions&logoColor=F2A20C)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0B0A0F?style=flat-square&logo=azuredevops&logoColor=F2A20C)
+![Helm](https://img.shields.io/badge/Helm-0B0A0F?style=flat-square&logo=helm&logoColor=F2A20C)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0B0A0F?style=flat-square)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+**Observability & FinOps**
 
-**Cloud & Infra**<br>
-<sub>Azure · AWS · GCP · AKS · VMSS<br>Kubernetes · Docker · Linux</sub>
+![Datadog](https://img.shields.io/badge/Datadog-0B0A0F?style=flat-square&logo=datadog&logoColor=8A8578)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0B0A0F?style=flat-square&logo=microsoftazure&logoColor=8A8578)
+![Kubecost](https://img.shields.io/badge/Kubecost-0B0A0F?style=flat-square)
+![FinOps](https://img.shields.io/badge/FinOps-0B0A0F?style=flat-square)
 
-</td>
-<td width="33%" valign="top">
+**Languages & Build**
 
-**IaC & Delivery**<br>
-<sub>Terraform · GitHub Actions<br>Azure DevOps · CI/CD</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Observability**<br>
-<sub>Datadog · Azure Monitor<br>Kubecost · FinOps</sub>
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-0B0A0F?style=flat-square&logo=python&logoColor=F5EFE0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0A0F?style=flat-square&logo=typescript&logoColor=F5EFE0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0A0F?style=flat-square&logo=javascript&logoColor=F5EFE0)
+![React](https://img.shields.io/badge/React-0B0A0F?style=flat-square&logo=react&logoColor=F5EFE0)
+![Next.js](https://img.shields.io/badge/Next.js-0B0A0F?style=flat-square&logo=nextdotjs&logoColor=F5EFE0)
+![Node.js](https://img.shields.io/badge/Node.js-0B0A0F?style=flat-square&logo=nodedotjs&logoColor=F5EFE0)
+![Vite](https://img.shields.io/badge/Vite-0B0A0F?style=flat-square&logo=vite&logoColor=F5EFE0)
+![Git](https://img.shields.io/badge/Git-0B0A0F?style=flat-square&logo=git&logoColor=F5EFE0)
 
 <br>
 
@@ -138,20 +141,35 @@ Online turf booking for players and ground owners — live slot availability, in
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0B0A0F&icon_color=E63946&text_color=8A8578&ring_color=F2A20C" alt="GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0B0A0F&text_color=8A8578" alt="Most-used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=E63946&title_color=E63946&text_color=8A8578&ring_color=F2A20C" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amoghavarsh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=E63946&title_color=E63946&text_color=57534E&ring_color=E63946" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=8A8578" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghavarsh&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=00000000&text_color=57534E" alt="Most-used languages" />
+</picture>
 
 <br>
 
-<img height="150" src="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=0B0A0F&stroke=F2A20C&ring=E63946&fire=E63946&currStreakLabel=F2A20C&sideLabels=8A8578&sideNums=F5EFE0&currStreakNum=F5EFE0&dates=8A8578" alt="Contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=8A8578&ring=E63946&fire=E63946&currStreakLabel=F2A20C&sideLabels=8A8578&sideNums=F5EFE0&currStreakNum=F5EFE0&dates=8A8578" />
+  <img height="150" src="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=D6D3D1&ring=E63946&fire=E63946&currStreakLabel=B45309&sideLabels=57534E&sideNums=1C1917&currStreakNum=1C1917&dates=78716C" alt="Contribution streak" />
+</picture>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amoghavarsh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=amoghavarsh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amoghavarsh&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amoghavarsh&bg_color=0B0A0F&color=F5EFE0&line=E63946&point=F2A20C&area=true&area_color=E63946&hide_border=true" width="100%" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amoghavarsh&bg_color=00000000&color=F5EFE0&line=E63946&point=F2A20C&area=true&area_color=E63946&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amoghavarsh&bg_color=00000000&color=1C1917&line=E63946&point=F2A20C&area=true&area_color=E63946&hide_border=true" alt="Contribution graph" />
+</picture>
 
 </div>
 
