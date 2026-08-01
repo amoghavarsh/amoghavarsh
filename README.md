@@ -1,6 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:E63946,60:F2A20C,100:E63946&height=230&section=header&text=AMOGHAVARSH&fontSize=62&fontColor=0B0A0F&fontAlignY=36&desc=cloud%20architect%20%C2%B7%20infrastructure%20as%20code%20%C2%B7%20builder%20of%20things&descAlignY=58&descSize=16" width="100%" />
+<br>
+
+# ಅಮೋಘವರ್ಷ
+
+### AMOGHAVARSH PATIL
+
+**cloud architect** &nbsp;·&nbsp; **infrastructure as code** &nbsp;·&nbsp; **builder of things**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=900&color=F2A20C&center=true&vCenter=true&width=640&lines=I+draw+clouds+for+a+living.;Infrastructure+as+code%2C+not+as+clicks.;I+built+a+programming+language+in+%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1.;Ship+small.+Ship+often.+Ship+from+Bagalkot." alt="" />
+
+<br><br>
+
+<a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/CLOUDSKETCHER-E63946?style=flat-square&labelColor=0B0A0F" alt="CloudSketcher" /></a>
+<a href="https://k-lipi.in/"><img src="https://img.shields.io/badge/KANNADALIPI-F2A20C?style=flat-square&labelColor=0B0A0F" alt="KannadaLipi" /></a>
+<a href="https://studio.promptexo.com"><img src="https://img.shields.io/badge/PROMPTEXO-F5EFE0?style=flat-square&labelColor=0B0A0F" alt="PromptExo" /></a>
+<a href="https://www.linkedin.com/in/amoghavarshp017/"><img src="https://img.shields.io/badge/LINKEDIN-8A8578?style=flat-square&labelColor=0B0A0F" alt="LinkedIn" /></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amoghavarsh&style=flat-square&color=E63946&label=VISITORS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/amoghavarsh?style=flat-square&label=FOLLOWERS&labelColor=0B0A0F&color=F2A20C" alt="Followers" />
 
 <br>
 
@@ -8,29 +30,14 @@
 
 <sub><i>Learn a million languages — code in one: your mother tongue.</i></sub>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=19&duration=2600&pause=900&color=F2A20C&center=true&vCenter=true&width=640&lines=I+draw+clouds+for+a+living.;Infrastructure+as+code%2C+not+as+clicks.;I+built+a+programming+language+in+%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1.;Ship+small.+Ship+often.+Ship+from+Bangalore." alt="" />
-
-<br><br>
-
-<a href="https://www.cloudsketcher.com"><img src="https://img.shields.io/badge/CLOUDSKETCHER-E63946?style=flat-square&labelColor=0B0A0F" alt="CloudSketcher" /></a>
-<a href="https://k-lipi.in/"><img src="https://img.shields.io/badge/KANNADALIPI-F2A20C?style=flat-square&labelColor=0B0A0F" alt="KannadaLipi" /></a>
-<a href="https://studio.promptexo.com"><img src="https://img.shields.io/badge/PROMPTEXO-F5EFE0?style=flat-square&labelColor=0B0A0F" alt="PromptExo" /></a>
-<a href="https://www.linkedin.com/in/amoghavarshp017/"><img src="https://img.shields.io/badge/LINKEDIN-0B0A0F?style=flat-square&labelColor=0B0A0F&color=8A8578" alt="LinkedIn" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=amoghavarsh&style=flat-square&color=E63946&label=VISITORS" alt="Profile views" />
-
 </div>
 
-<br>
+---
 
 ```console
 $ whoami --verbose
 
-  Amoghavarsh Patil · Bangalore, India
+  Amoghavarsh Patil · Bagalkot → Bangalore, India
   Cloud engineer, 6+ yrs. Azure / AWS / GCP.
   Founder — CloudSketcher.
 
@@ -142,31 +149,8 @@ Online turf booking for players and ground owners — live slot availability, in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghavarsh&theme=github_dark" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoghavarsh&theme=github" alt="Profile summary" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoghavarsh&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amoghavarsh&theme=github" alt="Repositories per language" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoghavarsh&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amoghavarsh&theme=github" alt="Most-committed languages" />
-</picture>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=8A8578&ring=E63946&fire=E63946&currStreakLabel=F2A20C&sideLabels=8A8578&sideNums=F5EFE0&currStreakNum=F5EFE0&dates=8A8578" />
-  <img height="150" src="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=D6D3D1&ring=E63946&fire=E63946&currStreakLabel=B45309&sideLabels=57534E&sideNums=1C1917&currStreakNum=1C1917&dates=78716C" alt="Contribution streak" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amoghavarsh&bg_color=00000000&color=F5EFE0&line=E63946&point=F2A20C&area=true&area_color=E63946&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amoghavarsh&bg_color=00000000&color=1C1917&line=E63946&point=F2A20C&area=true&area_color=E63946&hide_border=true" alt="Contribution graph" />
+  <img height="165" src="https://streak-stats.demolab.com?user=amoghavarsh&hide_border=true&background=00000000&stroke=D6D3D1&ring=E63946&fire=E63946&currStreakLabel=B45309&sideLabels=57534E&sideNums=1C1917&currStreakNum=1C1917&dates=78716C" alt="Contribution streak" />
 </picture>
 
 </div>
@@ -187,7 +171,5 @@ I'm around for **collaborations** on cloud tooling and architecture automation, 
 <br><br>
 
 <sub>ಜೈ ಕರ್ನಾಟಕ &nbsp;·&nbsp; built from Bagalkot</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F2A20C,60:E63946,100:F2A20C&height=140&section=footer" width="100%" />
 
 </div>
